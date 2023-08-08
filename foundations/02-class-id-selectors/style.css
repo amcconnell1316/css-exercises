@@ -1,8 +1,6 @@
 .oddNum {
     background-color: #ffc0cb;
-    font-family: Verdana;
-    font-family: Dejavu Sans;
-    font-family: sans-serif
+    font-family: Verdana, Dejavu Sans, sans-serif;
 }
 
 .cool {
