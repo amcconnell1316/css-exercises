@@ -1,12 +1,14 @@
 button {
-
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
 }
 
 .first {
-
+    color:white;
+    background: black;
 }
 
 .second {
-    
+    background-color: rgb(247, 201, 0);
 }
 
